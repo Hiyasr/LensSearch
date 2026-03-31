@@ -1,0 +1,7 @@
+torch
+torchvision
+numpy
+faiss-cpu
+pillow
+tqdm
+icrawler
