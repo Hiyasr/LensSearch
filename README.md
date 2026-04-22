@@ -14,7 +14,7 @@ This project demonstrates the practical application of computer vision, deep lea
 * Image feature extraction using pretrained CNN (ResNet18)
 * Fast similarity search using FAISS
 * Command-line interface (CLI)
-* Modular and scalable project structure
+* Modular and scalable project structures
 
 ---
 
