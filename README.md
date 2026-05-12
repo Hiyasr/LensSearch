@@ -7,6 +7,8 @@ LensSearch is a command-line based image retrieval system that allows users to s
 This project demonstrates the practical application of computer vision, deep learning, and vector similarity search.
 
 ---
+<img width="550" height="480" alt="image" src="https://github.com/user-attachments/assets/e57a4eec-b18e-4deb-b1bb-66ed84257403" />
+
 
 ## Features
 
